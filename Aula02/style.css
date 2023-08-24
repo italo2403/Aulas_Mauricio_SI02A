@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: #000;
+    color: #fff;
+    margin-left: 150px;
+    margin-top: 45px;
+}
+button:hover{
+    cursor: pointer;
+    background-image: url('./img/hero-img_copy.jpg');
+}
